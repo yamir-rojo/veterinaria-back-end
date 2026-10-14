@@ -1,0 +1,18 @@
+- me está dando error el runserver
+- completame el .gitignore
+- necesito que el entorno tenga las dependencias
+instalables en un solo comando pip a partir de un archivo
+dentro del proyecto.
+- no me deja crear el superusuario, me tira error al iniciar
+- generame los casos de usuario y que cada registro de atención
+esté asociado a un cliente
+- los precios ajustalos a clp con el formato 12.000 tipo así
+- ordename los commits 
+con este orden
+. Panel instalado: proyecto y app creados, panel accesible y superusuario director creado.
+2. Datos creados: Cliente y Atención relacionadas, creadas en la base de datos y administrables
+desde el panel.
+3. Usuarios creados: grupos, usuarios digitador y revisor , montos formateados y registros
+cargados.
+y subelos por mi ya tengo iniciada sesión
+
